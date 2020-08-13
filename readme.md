@@ -15,7 +15,7 @@ Usage
 For Node
 
 1. Configure the `webhookId` and `webhookToken` in config.json file
-2. On node container, run `node index.js`
+2. On node container, run `npm install` and `node index.js`
 
 For PHP
 
